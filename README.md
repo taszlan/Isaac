@@ -26,7 +26,7 @@ Sample templates.txt:
     Lots of love!
   </template>
  ```
-All tags (<template> and <title>) are mandatory.\
+All tags (both template tags, both title tags) are mandatory.\
 Newline separates sentences, | separates variants.\
 Beginning a line with | will make it blank by default.\
 Me and my friends all laughed!||It was weird, but funny nonetheless   <- will result in having blank as an option.
