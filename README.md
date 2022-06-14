@@ -2,7 +2,8 @@
 A nifty script to speed up routine text inputs.
 
 Script reads contents of templates.txt, allows rapid creation and pasting of routine texts.\
-Running the script requires previous installation of AutoHotkey.
+Running the script requires previous installation of AutoHotkey.\
+I use the script with Razer Tartarus v2 (that's why keyboard "shortcuts" are long and reach F20), I'll try to add support for normal keyboard users (It's probably possible to create persolalised key bindings using reWASD - haven't tested).
 
 templates.txt tags:
 ```
@@ -30,6 +31,7 @@ Newline separates sentences, | separates variants.\
 Beginning a line with | will make it blank by default.\
 Me and my friends all laughed!||It was weird, but funny nonetheless   <- will result in having blank as an option.
 
+                                                                         
 After running the script it is reuired to load the template file by pressing Shift+Ctrl+F20\
 To choose a template press Shift+Ctrl+F1-F19.\
 To toggle between options in sentences press Shift+Ctrl+F1-F19, after running out of options sentences will cycle to the beginning.\
