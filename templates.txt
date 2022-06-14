@@ -1,0 +1,72 @@
+<template>
+<title>
+Badanie TK mózgowia wykonano bez podania środka kontrastowego
+</title>
+|Badanie obarczone artefaktami ruchowymi.
+W obrębie jamy czaszki nie uwidoczniono krwi w ilości uchwytnej badaniem TK.
+|Cechy leukoarajozy okołokomorowej.
+|Zmiany naczyniopochodne istoty białej.
+|Pojedyncze jamy malacyjne w polu struktur głębokich mózgu.
+Gęstość tkankowa istoty szarej i białej mózgu oraz struktur tylnojamowych prawidłowa.|Poza tym gęstość tkankowa istoty szarej i białej mózgu oraz struktur tylnojamowych prawidłowa.
+Przymózgowe przestrzenie płynowe prawidłowe.|Przymózgowe przestrzenie płynowe miernie poszerzone.
+Układ komorowy nadnamiotowy nieposzerzony, nieprzemieszczony.|Układ komorowy nadnamiotowy poszerzony - na tle zanikowym, nieprzemieszczony.
+|Wariant anatomiczny - jama przegrody przezroczystej i jama Vergi szerokości do  mm. 
+Komora IV w normie.
+|Blaszki miażdżycowe w wewnątrzczaszkowych odcinkach ICA.
+Zatoki oboczne nosa i wyrostki sutkowate kości skroniowych o zachowanej powietrzności.|Pogrubienia śluzówek zatok obocznych nosa. Wyrostki sutkowate kości skroniowych o zachowanej powietrzności.
+Elementy kostne mózgoczaszki bez uchwytnych zmian pourazowych.
+</template>
+
+<template>
+<title>
+Badanie TK klatki piersiowej wykonano przed i po dożylnym podaniu środka kontrastowego. 
+</title>
+Miąższ płucny o zachowanej prawidłowej powietrzności, bez uchwytnych zmian ogniskowych.|Poza tym miąższ płucny o zachowanej prawidłowej powietrzności, bez uchwytnych zmian ogniskowych.
+Płynu w jamach opłucnowych nie uwidoczniono.|Płyn w jamach opłucnowych grubości do  mm po prawej,  mm po lewej.
+Nie uwidoczniono powiększonych węzłów chłonnych w obrębie wnęk płuc oraz śródpiersia.
+Tchawica, oskrzela główne, płatowe i segmentowe bez przewężeń.
+Aorta piersiowa nieposzerzona. 
+Serce niepowiększone.|Serce powiększone.
+Ujęte badaniem narządy nadbrzusza bez cech patologii w zastosowanym protokole badania (brak fazy żylnej - dokładna ocena narządów miąższowych niemożliwa). 
+Elementy układu kostnego bez uchwytnych w TK cech złośliwej przebudowy.
+</template>
+
+<template>
+<title>
+Badanie TK klatki piersiowej wykonano bez podania środka kontrastowego, w protokole HRCT.
+</title>
+Miąższ płucny o zachowanej prawidłowej powietrzności, bez uchwytnych zmian ogniskowych.|Poza tym miąższ płucny o zachowanej prawidłowej powietrzności, bez uchwytnych zmian ogniskowych.
+Płynu w jamach opłucnowych nie uwidoczniono.|Płyn w jamach opłucnowych grubości do  mm po prawej,  mm po lewej.
+Nie uwidoczniono ewidentnych powiększonych węzłów chłonnych w obrębie wnęk płuc oraz śródpiersia uchwytnych bez podania środka kontrastowego.
+Tchawica, oskrzela główne, płatowe i segmentowe bez przewężeń.
+Aorta piersiowa wydaje się być nieposzerzona.
+Serce niepowiększone.|Serce powiększone.
+Ujęte badaniem narządy nadbrzusza bez cech patologii bez podania środka kontrastowego - ocena ograniczona.
+Elementy układu kostnego bez uchwytnych w TK cech złośliwej przebudowy. 
+</template>
+
+<template>
+<title>
+Badanie TK jamy brzusznej i miednicy małej wykonano przed oraz po dożylnym podaniu środka kontrastowego, w protokole wielofazowym
+</title>
+Nadprzeponowe partie obu płuc bez zagęszczeń ogniskowych.
+Wątroba o prawidłowej densyjności, niepowiększona, jednorodna.|Wątroba powiększona, o obniżonej densyjności - cechy stłuszczenia.
+Żyła wrotna, żyły wątrobowe, żyła śledzionowa prawidłowo zakontrastowane.
+Pęcherzyk żółciowy bez uchwytnych w TK złogów.|Stan po cholecystektomii.
+Drogi żółciowe śród i zewnątrzwątrobowe nieposzerzone.
+Śledziona niepowiększona, jednorodna.
+Trzustka niepowiększona, bez uchwytnych zmian ogniskowych.
+Nadnercza prawidłowej wielkości i kształtu.
+Nerki w położeniu typowym, wielkości prawidłowej, ulegają typowemu wzmocnieniu po podaniu środka kontrastowego. Funkcja wydzielnicza nerek zachowana.|Nerki w położeniu typowym, wielkości prawidłowej, ulegają typowemu wzmocnieniu po podaniu środka kontrastowego.
+Układy kielichowo-miedniczkowe obustronnie nieposzerzone, bez złogów.
+Moczowody prawidłowo zakontrastowane, nieposzerzone.|Moczowody nieposzerzone.
+Pęcherz moczowy miernie wypełniony moczem cieniującym, wydaje się być cienkościenny.|Pęcherz moczowy miernie wypełniony moczem, wydaje się być cienkościenny.|Pęcherz moczowy słabo wypełniony - nie do oceny.
+|Gruczoł krokowy niepowiększony. Pęcherzyki nasienne niepowiększone, symetryczne.|W polu narządu rodnego bez uchwytnej w TK patologii - do oceny w USG TV.
+Doły kulszowo-odbytnicze wolne. 
+Aorta brzuszna nieposzerzona.
+Powiększonych węzłów chłonnych w jamie brzusznej i miednicy nie uwidoczniono.
+Pętle jelitowe bez uchwytnej patologii (ocena ograniczona - masy kałowe).
+Nie uwidoczniono wolnego płynu w jamie brzusznej i miednicy małej.
+Elementy układu kostnego bez uchwytnych w TK cech złośliwej przebudowy.
+Zmiany zwyrodnieniowo-wytwórcze i dyskopatyczne kręgosłupa.
+</template>
