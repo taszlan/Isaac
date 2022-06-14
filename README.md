@@ -39,6 +39,7 @@ To paste created text press Shift+Ctrl+F20 (the cursor has to be active in the p
 
 Known TODO's:\
   -add better explanation to what the script does, possibly images/video\
+  -create autoupdate script\
   -translate comments to english, reformat code\
   -check syntax before loading script, add error messages\
   -allow for templates to be longer than 19 lines
