@@ -36,7 +36,9 @@ After running the script it is reuired to load the template file by pressing Shi
 To choose a template press Shift+Ctrl+F1-F19.\
 To toggle between options in sentences press Shift+Ctrl+F1-F19, after running out of options sentences will cycle to the beginning.\
 Options will be displayed in Isaac window and as a tooltip near the mouse pointer.                                                                      
-To paste created text press Shift+Ctrl+F20 (the cursor has to be active in the position where the text is pasted, otherwise text will be lost).
+To paste created text press Shift+Ctrl+F20 (the cursor has to be active in the position where the text is pasted, otherwise text will be lost).\
+To close script click on the window and press Esc.\
+To drag the window grab it by the name.
                                                                          
 
 Known TODO's:\
