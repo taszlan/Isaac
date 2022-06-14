@@ -1,7 +1,7 @@
 # Isaac
 A nifty script to speed up routine text inputs.
 
-Script reads contents of templates.txt, allows rapid creation and pasting of routine texts.\
+Script (Isaac.ahk) reads contents of templates.txt, allows rapid creation and pasting of routine texts.\
 Running the script requires previous installation of AutoHotkey.\
 I use the script with Razer Tartarus v2 (that's why keyboard "shortcuts" are long and reach F20), I'll try to add support for normal keyboard users (It's probably possible to create personalised key bindings using reWASD - haven't tested).
 
